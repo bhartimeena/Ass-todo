@@ -76,4 +76,28 @@ The Task Manager App is a application where i have used ReactJs for the frontend
    http://localhost:3000
 ---
 
-With these steps, Task Manager App should be up and running seamlessly! 😊
+With these steps, The App should be up and running seamlessly! 😊
+
+
+
+
+## **Assumptions and Limitations**
+- **Assumptions:**
+  - Users will enter valid input (e.g., non-empty task names).
+  - The application is intended for single-user usage and does not include multi-user authentication or a backend server.
+
+- **Limitations:**
+  - **Limitation:** Only a task's status is updated to "Completed." There’s no way to change the status back to "Pending" or add other statuses.
+  - **Solution:** Add more status options (e.g., "In Progress") or allow toggling between "Pending" and "Completed."
+
+
+---
+
+## **Libraries/Tools Used**
+- **React:** To build a dynamic and interactive user interface.
+- **React-Icons:** For task-related icons like edit, delete, and complete.
+- **axios:** For making API calls to the backend.
+- **web-vitals:**  For measuring and optimizing key web performance metrics.
+- **djangorestframework**  For building and managing backend APIs efficiently
+
+---
