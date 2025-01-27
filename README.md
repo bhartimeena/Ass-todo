@@ -1,6 +1,6 @@
 # **Task Manager App**
 
-The Task Manager App is a user-friendly React-based application for managing tasks efficiently. It allows users to add, edit, delete, and mark tasks as complete Also, the status of the task and priority of the task. This app is organizing tasks.
+The Task Manager App is a application where i have used ReactJs for the frontend and Python (Djnago Rest API) for the backend this application for managing tasks efficiently. It allows users to add, edit, delete, and mark tasks as complete Also, the status of the task and priority of the task. This app is organizing tasks.
 
 ---
 
