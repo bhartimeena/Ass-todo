@@ -71,7 +71,9 @@ The Task Manager App is a user-friendly React-based application for managing tas
    ```bash
    python manage.py runserver
    ```
-
+   
+7. **Open the App in Your Browser:**  
+   http://localhost:3000
 ---
 
-With these steps, your Task Manager App should be up and running seamlessly! 😊
+With these steps, Task Manager App should be up and running seamlessly! 😊
